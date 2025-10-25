@@ -33,6 +33,13 @@ ___
 <img src="https://github-trophies.vercel.app/?username=sina-naeemi&theme=gruvbox&rank=S,SS,SSS,A,AA,AAA,B,C,SECRET" alt="Sina Naeemi's trophy" style=" max-width: 500px;">
 
 ___
-<h3>social...</h3>
 
+<h3 align="center">🌐 Connect with me</h3>
 
+<p align="center">
+  <a href="https://t.me/Sinaanaeimi" target="_blank" style="text-decoration: none; margin: 0 8px;"><img src="https://telegram.org/img/t_logo.svg" width="24" height="24" alt="Telegram"><img src="https://img.shields.io/badge/Telegram-@Sinaanaeimi-26A5E4?style=flat&labelColor=26A5E4&color=26A5E4" alt="Telegram"></a>
+  <a href="https://instagram.com/sina__c4" target="_blank" style="text-decoration: none; margin: 0 8px;"><img src="https://github.com/sina-naeemi/sina-naeemi/blob/main/icons-instagram.png?raw=true" width="24" height="24" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-@sina__c4-E4405F?style=flat&labelColor=E4405F&color=E4405F" alt="Instagram"></a>
+  <a href="https://x.com/SinaNaeimi81" target="_blank" style="text-decoration: none; margin: 0 8px;"><img src="https://github.com/sina-naeemi/sina-naeemi/blob/main/icons-x-.png?raw=true" width="24" height="24" alt="X"><img src="https://img.shields.io/badge/X-@SinaNaeimi81-000000?style=flat&labelColor=000000&color=000000" alt="X"></a>
+  <a href="https://linkedin.com/in/sina-naeimi1" target="_blank" style="text-decoration: none; margin: 0 8px;"><img src="https://github.com/sina-naeemi/sina-naeemi/blob/main/icons-linkedin.png?raw=true" width="24" height="24" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-sina%20naeimi1-0A66C2?style=flat&labelColor=0A66C2&color=0A66C2" alt="LinkedIn">
+  </a>
+</p>
