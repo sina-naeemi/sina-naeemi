@@ -20,7 +20,19 @@ ___
 <h3>github stats</h3>
 
 <div align="center">
-  <a href="https://github.com/sina-naeemi">
+  <a href="https://github.com/sina-naeemi"><br>
     <img src="https://github-readme-stats.vercel.app/api?username=sina-naeemi&show_icons=true&theme=radical" alt="Sina Naeemi's GitHub Stats" style=" max-width: 500px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina-naeemi&layout=donut-vertical" alt="Sina Naeemi's languages Stats" style=" max-width: 500px;">
   </a>
 </div>
+
+___
+
+<h3>github trophys</h3>
+
+<img src="https://github-trophies.vercel.app/?username=sina-naeemi&theme=gruvbox&rank=S,SS,SSS,A,AA,AAA,B,C,SECRET" alt="Sina Naeemi's trophy" style=" max-width: 500px;">
+
+___
+<h3>social...</h3>
+
+
