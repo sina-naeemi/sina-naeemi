@@ -1,4 +1,4 @@
-<p align=center>welcome 🌹<p/>
+<p align=center><img src=https://github.com/sina-naeemi/sina-naeemi/blob/main/cat.jpg width="16" height="16"?raw=true> welcome 🌹<p/>
 <h2>hello!<img src=https://github.com/sina-naeemi/sina-naeemi/blob/main/hand%20shake.gif width='30' height='30'> im sina naimi</h2>
 
 ---
@@ -17,10 +17,12 @@ ___
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"><img src="https://img.shields.io/badge/Django%20REST-FF0000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 
-<h3>github stats</h3>
+___
 
-<div align="center">
-  <a href="https://github.com/sina-naeemi"><br>
+<h3>📊github stats</h3>
+
+<div align="left">
+  <a href="https://github.com/sina-naeemi" align=left><br>
     <img src="https://github-readme-stats.vercel.app/api?username=sina-naeemi&show_icons=true&theme=radical" alt="Sina Naeemi's GitHub Stats" style=" max-width: 500px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina-naeemi&layout=donut-vertical" alt="Sina Naeemi's languages Stats" style=" max-width: 500px;">
   </a>
@@ -28,13 +30,15 @@ ___
 
 ___
 
-<h3>github trophys</h3>
+<h3>🏆🏅github trophys</h3>
 
 <img src="https://github-trophies.vercel.app/?username=sina-naeemi&theme=gruvbox&rank=S,SS,SSS,A,AA,AAA,B,C,SECRET" alt="Sina Naeemi's trophy" style=" max-width: 500px;">
 
 ___
 
 <h3 align="center">🌐 Connect with me</h3>
+<div align="center"><img src="https://github.com/sina-naeemi/sina-naeemi/blob/main/coding2.gif">
+</div>
 
 <p align="center">
   <a href="https://t.me/Sinaanaeimi" target="_blank" style="text-decoration: none; margin: 0 8px;"><img src="https://telegram.org/img/t_logo.svg" width="24" height="24" alt="Telegram"><img src="https://img.shields.io/badge/Telegram-@Sinaanaeimi-26A5E4?style=flat&labelColor=26A5E4&color=26A5E4" alt="Telegram"></a>
