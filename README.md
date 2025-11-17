@@ -48,3 +48,12 @@ ___
 
 <div align="center"><img src="https://github.com/sina-naeemi/sina-naeemi/blob/main/coding2.gif">
 </div>
+<p align="center">
+<img src="https://views-counter.vercel.app/badge?pageId=sina-naeemi&leftColor=000000&rightColor=eaee1b&type=total&label=profile%20view&style=none" alt="Views Counter">
+<img src="https://img.shields.io/github/followers/sina-naeemi?style=for-the-badge&label=Followers&color=1DA1F2" alt="Followers">
+<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&style=for-the-badge&url=https://api.github.com/users/sina-naeemi" alt="Repositories">
+<img src="https://img.shields.io/badge/dynamic/json?color=gold&label=Stars&query=stars&style=for-the-badge&url=https://api.github-star-counter.workers.dev/user/sina-naeemi" alt="Stars">
+<img src="https://img.shields.io/badge/Focus-‌Backend%20Development-FF6B6B?style=for-the-badge" alt="Focus">
+</p>
+
+>ح<
