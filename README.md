@@ -37,8 +37,6 @@ ___
 ___
 
 <h3 align="center">🌐 Connect with me</h3>
-<div align="center"><img src="https://github.com/sina-naeemi/sina-naeemi/blob/main/coding2.gif">
-</div>
 
 <p align="center">
   <a href="https://t.me/Sinaanaeimi" target="_blank" style="text-decoration: none; margin: 0 8px;"><img src="https://telegram.org/img/t_logo.svg" width="24" height="24" alt="Telegram"><img src="https://img.shields.io/badge/Telegram-@Sinaanaeimi-26A5E4?style=flat&labelColor=26A5E4&color=26A5E4" alt="Telegram"></a>
@@ -47,3 +45,6 @@ ___
   <a href="https://linkedin.com/in/sina-naeimi1" target="_blank" style="text-decoration: none; margin: 0 8px;"><img src="https://github.com/sina-naeemi/sina-naeemi/blob/main/icons-linkedin.png?raw=true" width="24" height="24" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-sina%20naeimi1-0A66C2?style=flat&labelColor=0A66C2&color=0A66C2" alt="LinkedIn">
   </a>
 </p>
+
+<div align="center"><img src="https://github.com/sina-naeemi/sina-naeemi/blob/main/coding2.gif">
+</div>
