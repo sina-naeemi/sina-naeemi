@@ -14,7 +14,7 @@ I care about building well-structured and maintainable applications while follow
   <li>🤝 Experienced in teamwork, collaboration, and team leadership</li>
   <li>🏆 Team Leader of a top-performing team in the Rahisho National Competition, supported by the National Elites Foundation</li>
   <li>🎯 Reliable, responsible, and committed to delivering tasks with quality and on time</li>
-  <li>🧠 Continuously learning and growing through self-diriven learning, problem-solving, and hands-on experience</li>
+  <li>🧠 Continuously learning and growing through self-driven learning, problem-solving, and hands-on experience</li>
 </ul>
 
 ___
@@ -83,11 +83,11 @@ ___
 
 ___
 
-<h3>📊github stats</h3>
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sina-naeemi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+<h3>📊 GitHub Stats</h3>
 
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sina-naeemi&layout=compact&theme=radical&hide_border=true" />
+<p align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=sina-naeemi&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sina-naeemi&layout=compact&theme=radical&hide_border=true" />
 </p>
 <!-- <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sina-naeemi&theme=github-dark&hide_border=true"/>
