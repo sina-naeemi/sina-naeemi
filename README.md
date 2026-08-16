@@ -60,6 +60,16 @@ ___
 
 ___
 
+## 🗺️ Learning Roadmap
+
+1. <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+2. <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest">
+3. <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery">
+4. <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+5. <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">
+
+___
+
 <h3>📌 pinned project</h3>
 
 [**online_store**](https://github.com/sina-naeemi/online_store) — a Django REST Framework e-commerce API with JWT authentication, OTP email verification, Swagger documentation (drf-spectacular), Docker Compose, and PostgreSQL.
