@@ -4,11 +4,17 @@
 ---
 
 <h3>🧑🏻‍💻 about me...</h3>
+<p>I have hands-on experience developing RESTful APIs with Python, Django, and Django REST Framework,
+I care about building well-structured and maintainable applications while following SOLID principles and software engineering best practices.</p>
 <ul>
-  <li>🎓 Bachelor's student in computer engineering</li>
-  <li>💻 Junior Backend Developer , interested in Python and Django</li>
+  <li>🎓 Final-year Computer Engineering student </li>
+  <li>💻Backend Developer focused on Python, Django & Django REST Framework</li>
+  <li>💼 Seeking Backend / Django Developer opportunities</li>
   <li>📚 Trying to learn design and development principles</li>
-  <li>🚀 Continuously learning...</li>
+  <li>🤝 Experienced in teamwork, collaboration, and team leadership</li>
+  <li>🏆 Team Leader of a top-performing team in the Rahisho National Competition, supported by the National Elites Foundation</li>
+  <li>🎯 Reliable, responsible, and committed to delivering tasks with quality and on time</li>
+  <li>🧠 Continuously learning and growing through self-diriven learning, problem-solving, and hands-on experience</li>
 </ul>
 
 ___
