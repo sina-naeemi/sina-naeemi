@@ -66,6 +66,11 @@ ___
 
 <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Repo%20Stars&query=stargazers_count&url=https://api.github.com/repos/sina-naeemi/online_store&style=flat-square" alt="online_store stars">
 
+[**Sina_blog**](https://github.com/sina-naeemi/Sina_blog) — a Django template-based blog application with category and comment systems, built using Django's traditional MVT architecture and Bootstrap for the frontend.
+
+<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Repo%20Stars&query=stargazers_count&url=https://api.github.com/repos/sina-naeemi/Sina_blog&style=flat-square" alt="Sina_blog stars">
+
+
 ___
 
 <h3>📊github stats</h3>
